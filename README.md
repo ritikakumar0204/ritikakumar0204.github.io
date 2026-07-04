@@ -54,7 +54,7 @@ Fine-tuned BioMistral-7B with QLoRA on MIMIC-IV discharge notes, reformulating m
 
 ## Open Source
 
-**[Microsoft Azure PyRIT](https://github.com/Azure/PyRIT/pull/503)** — Contributed to Anthropic's AI red-teaming framework for responsible AI evaluation *(Oct 2024)*
+**[Microsoft Azure PyRIT](https://github.com/Azure/PyRIT)** — Contributed to Anthropic's AI red-teaming framework for responsible AI evaluation *(Oct 2024)*
 
 ---
 
